@@ -1,0 +1,12 @@
+{
+  "name": "hugsees hide and seek barnyard buddies _v5 final",
+  "short_name": "hugsees hide and seek barnyard buddies _v5 final",
+  "id": "com.example.gamename",
+  "description": "experimental game for hugacademy",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
